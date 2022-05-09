@@ -26,12 +26,12 @@ npm i mongoose
 Clone this application to your application environment and start by typing`npm init -y`, `npm i`, and `npm start` to initiate database
 
 ## Demo Video
-________
+
 
 
 ## GitHub
 
-GitHub 
+GitHub URL: https://github.com/BDJS0033/Social-Network-API
 
 
 <br />
