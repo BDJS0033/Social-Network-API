@@ -16,14 +16,15 @@ SO THAT my website can handle large amounts of unstructured data
 npm i express
 npm i mongoose
 ```
-<p><a href="https://nodejs.org/">Node.js</a></p>
-<p><a href="https://www.mongodb.com/">MongoDB</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express</a></p>
-<p><a href="https://www.npmjs.com/package/mongoose">Mongoose</a></p>
+[Node.js](https://nodejs.org/) -
+[Express](https://www.npmjs.com/package/express) -
+[Mongoose](https://www.npmjs.com/package/mongoose) -
+[Insomnia](https://insomnia.rest/download)
+
 
 ## Deployment
 
-Clone this application to your application environment and start by typing`npm init -y`, `npm i`, and `npm start` to initiate database
+Clone this application to your application environment and start by typing `npm init -y`, `npm i`, and `npm start` to initiate database
 
 ## Demo Video
 
@@ -31,7 +32,8 @@ Clone this application to your application environment and start by typing`npm i
 
 ## GitHub
 
-GitHub URL: https://github.com/BDJS0033/Social-Network-API
+
+[GitHub](https://github.com/BDJS0033/Social-Network-API)
 
 
 <br />
