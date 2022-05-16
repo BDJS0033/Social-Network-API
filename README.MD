@@ -28,10 +28,11 @@ Clone this application to your application environment and start by typing `npm 
 
 ## Demo Video
 
+[Demo Video for Users GET/POST/PUT/DELETE Routes](https://www.loom.com/share/b715cc0fabfb4312bfc9cce2388cb65d)
 
+[Demo Video for Thoughts GET/POST/PUT/DELETE Routes](https://www.loom.com/share/e9e5d0b77d394fdfb77c500081e43c7d)
 
 ## GitHub
-
 
 [GitHub](https://github.com/BDJS0033/Social-Network-API)
 
